@@ -1,0 +1,28 @@
+{
+  "Copper": {
+    "Name": "Copper Ore Deposit",
+    "PropType": "Ore",
+    "Level": [0, 1],
+    "Tier": 1,
+    "Color": [184, 115, 51],
+    "HealthBarColor": null,
+    "HighlightColor": null,
+    "StrikeSounds": [7650217335, 7650220708, 7650230644, 7650226201],
+    "PropEffectName": null,
+    "Health": 25,
+    "RespawnTime": 5,
+    "Drops": {
+      "Statistics": {
+        "XP": 10,
+        "Gold": 3
+      },
+      "Items": [
+        {
+          "Type": "Material",
+          "Name": "Copper",
+          "Amount": [1, 2]
+        }
+      ]
+    }
+  }
+}
